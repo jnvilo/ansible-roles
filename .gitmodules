@@ -19,3 +19,11 @@
 [submodule "jnvilo.docker"]
 	path = jnvilo.docker
 	url = git@github.com:jnvilo/ansible-role-docker
+[submodule "ansible-role-gitlab"]
+	path = ansible-role-gitlab
+	url = git@github.com:jnvilo/ansible-role-gitlab.git
+	branch = master
+[submodule "jnvilo.gitlab"]
+	path = jnvilo.gitlab
+	url = git@github.com:jnvilo/ansible-role-gitlab.git
+	branch = master
