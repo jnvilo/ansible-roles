@@ -23,3 +23,6 @@
 	path = jnvilo.gitlab
 	url = git@github.com:jnvilo/ansible-role-gitlab.git
 	branch = master
+[submodule "jnvilo.letsencrypt"]
+	path = jnvilo.letsencrypt
+	url = git@github.com:jnvilo/ansible-role-letsencrypt.git
