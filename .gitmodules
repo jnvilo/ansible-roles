@@ -7,6 +7,7 @@
 [submodule "jnvilo.harbor"]
 	path = jnvilo.harbor
 	url = git@github.com:jnvilo/ansible-role-harbor.git
+	branch = master
 [submodule "jnvilo.aws"]
 	path = jnvilo.aws
 	url = git@github.com:jnvilo/ansible-role-aws.git
