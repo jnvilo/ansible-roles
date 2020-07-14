@@ -1,9 +1,11 @@
 [submodule "jnvilo.webproxy"]
 	path = jnvilo.webproxy
 	url = git@github.com:jnvilo/ansible-role-webproxy.git
+	branch = master
 [submodule "jnvilo.openvpn-as"]
 	path = jnvilo.openvpn-as
 	url = git@github.com:jnvilo/ansible-role-openvpn-as.git
+	branch = master
 [submodule "jnvilo.harbor"]
 	path = jnvilo.harbor
 	url = git@github.com:jnvilo/ansible-role-harbor.git
@@ -11,12 +13,15 @@
 [submodule "jnvilo.aws"]
 	path = jnvilo.aws
 	url = git@github.com:jnvilo/ansible-role-aws.git
+	branch = master
 [submodule "jnvilo.calibre-web"]
 	path = jnvilo.calibre-web
 	url = git@github.com:jnvilo/ansible-role-calibre-web.git
+	branch = master
 [submodule "jnvilo.fedora-desktop"]
 	path = jnvilo.fedora-desktop
 	url = git@github.com:jnvilo/ansible-role-fedora-desktop.git
+	branch = master
 [submodule "jnvilo.docker"]
 	path = jnvilo.docker
 	url = git@github.com:jnvilo/ansible-role-docker
