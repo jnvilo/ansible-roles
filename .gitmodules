@@ -34,3 +34,6 @@
 	path = jnvilo.gitlab
 	url = git@github.com:jnvilo/ansible-role-gitlab.git
 	branch = master
+[submodule "jnvilo.nexus3-oss"]
+	path = jnvilo.nexus3-oss
+	url = git@github.com:jnvilo/nexus3-oss.git
