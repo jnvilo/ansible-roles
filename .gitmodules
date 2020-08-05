@@ -1,3 +1,6 @@
 [submodule "jnvilo.wireguard"]
 	path = jnvilo.wireguard
 	url = git@github.com:jnvilo/ansible-role-wireguard.git
+[submodule "jnvilo.java"]
+	path = jnvilo.java
+	url = git@github.com:jnvilo/ansible-role-java.git
