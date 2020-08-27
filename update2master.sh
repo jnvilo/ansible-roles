@@ -12,3 +12,4 @@ done
 timestamp=`date +%Y%m%Y-%H%M`
 
 git commit -a -m "updated submodules to master - $timestamp"
+git push 
